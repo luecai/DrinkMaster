@@ -1,0 +1,14 @@
+
+button {
+  margin: 10px; 
+  border-color: aliceblue;
+  transition: 0.6s;
+}
+
+button:hover {
+  margin: 10px;
+  background: #3B3B43;
+  color: white;
+  border: none;
+
+}
