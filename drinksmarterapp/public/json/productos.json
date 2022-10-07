@@ -1,11 +1,84 @@
 [
     {
         "id": 1,
-        "Nombre": "Monitor",
-        "Marca": "Sony"
+        "nombre": "Don Manuel Villafañe Reserva Cabernet Sauvignon",
+        "marca": "Don Manuel Villafañe",
+        "modelo": "Cabernet Sauvignon",
+        "precio": 1.559,
+        "stock": 30,
+        "img": "Don Manuel Villafañe Reserva Cabernet Sauvignon.jpeg",
+        "info": "Color rojo rubí con una aroma intenso a cassis, vainilla y pimienta negra. De gran cuerpo, pero suave y rico, con más mora y sabores de chocolate en la boca. El final es largo y elegante, con taninos dulces equilibrados."
+    },
+    {
+        "id": 2,
+        "nombre": "Norton Cosecha Especial Brut Nature",
+        "marca": "Norton",
+        "modelo": "Especial Brut Nature",
+        "precio":  1.401,
+        "stock": 20,
+        "img": "Norton Cosecha Especial Brut Nature.jpeg",
+        "info": "Delicados aromas a frutos rojos. De gran fineza. Equilibrada acidez, buen final."
+    },
+    {
+        "id": 3,
+        "nombre": "La Poderosa Malbec",
+        "marca": "Del Fin del Mundo",
+        "modelo": "Malbec",
+        "precio": 770,
+        "stock": 15,
+        "img": "La Poderosa Malbec.jpeg",
+        "info": "La poderosa Malbec es un vino con aromas a ciruela y a frutas. En boca es untuoso, aterciopelada que nos invita a seguir tomando. Este vino encarna el espíritu de aventura y exploración."
+    
+    },
+    {
+        "id": 4,
+        "nombre": "Cordero con Piel de Lobo Malbec",
+        "marca": "Mosquita Muerta Wines",
+        "modelo": "Malbec",
+        "precio": 609,
+        "stock": 30,
+        "img": "Cordero con Piel de Lobo Malbec.jpeg",
+        "info": "Un Malbec joven muy bien elaborado, diferente por su aroma y sabor a frutos maduros. Con una acidez justa deja en boca un picor agradable con un final reforzado por su paso por madera."
+    },
+    {
+        "id": 5,
+        "nombre": "Mosquita Muerta Black Blend de Cabernet",
+        "marca": "Mosquita Muerta Wines",
+        "modelo": "Cabernet Sauvignon",
+        "precio": 10.930,
+        "stock": 7,
+        "img": "Mosquita Muerta Black Blend de Cabernet.jpeg",
+        "info": "Mosquita Muerta tímida e inofensiva juega con el silencio prudente mientras las demás pierden con aleteo exagerado. Mosquita Muerta que se las trae, en veneno inesperado, un plan entre manos. No intentes con ella, puede quedar preso... por siempre."
+    },
+    {
+        "id": 6,
+        "nombre": "Malcriado Malbec",
+        "marca": "Mosquita Muerta Wines",
+        "modelo": "Malbec",
+        "precio": 17.800,
+        "stock": 20,
+        "img": "Malcriado Malbec.jpeg",
+        "info": "Es un vino opulento y exclusivo. Se elaboró una partida limitada de 1500 botellas elegidas a partir de 6 barricas. Su enólogo, Pablo Bassin, indicó que el vino reposó un año entero en botella y eso le otorga una redondez y un equilibrio especial. La complejidad de Valle de Uco y su diversidad de terroirs se conjuga para dar nacimiento a un ejemplar emblemático: el vigor de los suelos se encuentra presente. Mosquita Muerta Wines hasta ahora se caracterizaba por tener un portfolio de etiquetas únicamente de blends. Ahora, MALCRIADO, viene a romper con la propia dinámica creada por ellos. Malcriado sin dudas será algo PISPI y por momentos será SAPO DE OTRO POZO."
+    },
+    {
+        "id": 7,
+        "nombre": "Perro Callejero Blend de Malbec",
+        "marca": "Mosquita Muerta Wines",
+        "modelo": "Malbec",
+        "precio": 919 ,
+        "stock": 10,
+        "img": "Perro Callejero Blend de Malbec.jpeg",
+        "info": "Perro Callejero, fiel a sus convicciones e incansable buscador. Guiado por su olfato enfrenta día a día su propio destino. Perro Callejero que busca ese hueso de oro hasta las últimas consecuencias. No intentes domesticarlo... él es su propio dueño."
+    },
+    {
+        "id": 8,
+        "nombre": "Nicasia Vineyards Red Blend Malbec",
+        "marca": "Catena Zapata",
+        "modelo": "Malbec",
+        "precio": 1.680,
+        "stock": 30,
+        "img": "Nicasia Vineyards Red Blend Malbec.jpeg",
+        "info": "Se perciben en este vino intensos y dulces sabores a ciruelas y moras maduras aportados por el Malbec, junto a sutiles notas especiadas conferidos por el Cabernet Sauvignon y el Petit Verdot. El paso por roble incrementa aún más la complejidad de este vino, otorgando ligeras notas de vanilla y café."
     }
-
-
-
 
 ]
