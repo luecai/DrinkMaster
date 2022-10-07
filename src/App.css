@@ -1,0 +1,115 @@
+
+button {
+  margin: 10px; 
+  border-color: aliceblue;
+  transition: 0.6s;
+}
+
+button:hover {
+  margin: 10px;
+  background: #3B3B43;
+  color: white;
+  border: none;
+
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  object-fit: contain;
+ }
+
+ .card {
+  margin: 20px;
+  display: flex;
+  background-color: #e3f1f133;
+  border-radius: 25px;
+  border-color: #3B3B43;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  box-shadow: 5px 5px 10px #565656, -5px -5px 10px #8a8a8a ;
+ }
+
+ .card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+ }
+
+ .card-title{
+  color: black;
+  font-size: 60px;
+ }
+
+ .DataVino {
+  margin: 20px;
+  display: flex;
+  background-color: #e3f1f133;
+  border-radius: 25px;
+  border-color: #3B3B43;
+  width: 450px;
+  height: auto;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  box-shadow: 5px 5px 10px #565656, -5px -5px 10px #8a8a8a ;
+ }
+ .DataMayor{
+  display: flex;
+  direction: row;
+ }
+
+ .ficha {
+  display: flex;
+  margin: 15px;
+  height: auto;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+ }
+
+ .OperacionesCarrito{
+  display: flex;
+  margin: 15px;
+  height: auto;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+ }
+.CardD{
+  margin: 20px;
+  display: flex;
+  /* background-color: #e3f1f133; */
+  border-radius: 25px;
+  border-color: #3B3B43;
+  width: 450px;
+  height: 800px;
+  justify-content: center;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  box-shadow: 5px 5px 10px #565656, -5px -5px 10px #8a8a8a ;
+}
+.cardProducto{
+  width: 18rem;
+  margin: 4px;
+}
+
+.footers {
+  background-color: #f3f3f8;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
